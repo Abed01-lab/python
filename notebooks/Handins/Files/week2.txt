@@ -1,6 +1,3 @@
-h,e,j,"
-"
-m,e,d,"
-"
-d,i,g,"
-"
+hej
+med
+dig

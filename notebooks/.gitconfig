@@ -1,4 +1,4 @@
 [user]
 	email = abedharirii@gmail.com
 [credential]
-	helper = "!f() { /home/jovyan/.vscode-server/bin/2b9aebd5354a3629c3aba0a5f5df49f43d6689f8/node /tmp/vscode-remote-containers-f01c3ad788d88f2942ce01f3072edf729363c645.js $*; }; f"
+	helper = "!f() { /home/jovyan/.vscode-server/bin/2b9aebd5354a3629c3aba0a5f5df49f43d6689f8/node /tmp/vscode-remote-containers-773d6a9e204be861ecd4186a201b14d7b362f4d8.js $*; }; f"
