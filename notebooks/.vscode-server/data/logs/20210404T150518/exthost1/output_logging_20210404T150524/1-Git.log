@@ -1,0 +1,197 @@
+Looking for git in: git
+Using git 2.17.1 from git
+Opening repository for path='/home/jovyan' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/.cache' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/.config' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/.gitconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/.ipynb_checkpoints' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/.ipython' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/.jupyter' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/.keras' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/.local' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/.mozilla' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/.python_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/.theano' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/.vscode-server' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/01-0 Getting Started with installations etc.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/01-0 Test setup.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/01-1 Intro.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/01-2 Python language features.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/01-3 Python data structures (lists and tuples).ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/01-4 Data structures (Dictionaries).ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/01-Exercise.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/02-0a Loops.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/02-0b Functions.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/02-0c Modules.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/02-1_argparse.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/02-2 Working with Files.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/02-Exercise.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/03-1 Object-oriented Programming.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/03-2 Exceptions.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/03-3 Plotting.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/03-Exercise.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/04 Numpy.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/04-Exercise.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/05-1 DateTime.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/05-2 pandas.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/05-3 Subprocess.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/05-Exercise.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/06-1 Iterators and Generators.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/06-2 Requests.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/06-3 Concurrency vs Paralelism.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/06-Exercise.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/07-1 webscraping.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/07-2 Regular Expressions.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/07-3 selenium.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/08 Data Persistence.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/08-2 Web services.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/09-1 sets.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/09-2 graphs and pagerank.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/10-0-Machine-Learning-basics-and-Feature-spaces.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/10-1-Linear-Algebra.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/10-2-Linear-Regression-model-sklearn.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/11-0 Model Validation.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/11-1 Clustering With MeanShift.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/11-2 Clustering Titanic example.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/11-3 Classification model.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/12-1-Perceptron-Classifier.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/12-2-Exercise-Perceptrons.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/13-1-Neural-Networks.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/13-2-Exercise-handwritten-numbers.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/13-3 IMDB data binary category.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/14-1-1_Image_manipulation.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/14-1-OpenCV.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/14-2 Movement Detection.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/14-2-Video-Classification-and-Human-Activity-Recognition.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/14-3-Object recognition.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/14-4 Testing.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/15-1-Text-Preprocessing.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/3d_histo.png' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/3d_histo2.png' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/API_EN.ATM.CO2E.KT_DS2_en_csv_v2_1345584.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/API_MS.MIL.XPND.CN_DS2_en_csv_v2_1350889.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/API_MS.MIL.XPND.CN_DS2_en_csv_v2_2055776.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/Handins' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/Metadata_Country_API_EN.ATM.CO2E.KT_DS2_en_csv_v2_1345584.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/Metadata_Country_API_MS.MIL.XPND.CN_DS2_en_csv_v2_1350889.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/Metadata_Country_API_MS.MIL.XPND.CN_DS2_en_csv_v2_2055776.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/Metadata_Indicator_API_EN.ATM.CO2E.KT_DS2_en_csv_v2_1345584.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/Metadata_Indicator_API_MS.MIL.XPND.CN_DS2_en_csv_v2_1350889.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/Metadata_Indicator_API_MS.MIL.XPND.CN_DS2_en_csv_v2_2055776.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/agendas' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/data' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/dk-stat-all-tables.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/exam_questions.md' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/flask' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/hello.py' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/hello2.py' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/images' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/modules' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /home)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/jovyan/obj-detected.jpg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/osm2.html' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/pandas_class_x_solutions.ipynb' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/simple_digit_trainingset.csv' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/squares_plot.png' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/jovyan/unisex_navne.xls' failed; ex=Error: spawn ENOTDIR
